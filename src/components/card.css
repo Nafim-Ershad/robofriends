@@ -1,0 +1,15 @@
+#card_body{
+	background-color: lightgreen;
+	border-radius: 10px;
+	padding: 3px;
+	margin: 5px 15px;
+	box-shadow: 3px 0 10px 0 ;
+	text-align: center;
+	width: 300px;
+	display: inline-block;
+	transition: all 0.5s ease;
+}
+
+#card_body:hover{
+	transform: scale(1.1);
+}
